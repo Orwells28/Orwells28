@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Incident Management</b>
+- <b>Incident Management (ServiceNow)</b>
   - [incident forms](https://github.com/Orwells28/Incident-Form/blob/main/README.md)
   - [workflows](https://github.com/joshmadakor1/Algorithms-Practice)
   - [escalation paths](https://github.com/joshmadakor1/Algorithms-Practice)
