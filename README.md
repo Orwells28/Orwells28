@@ -4,7 +4,7 @@
 
 - <b>ServiceNow</b>
   - [incident forms (remove fields)](https://github.com/Orwells28/Incident-Form/blob/main/README.md)
-  - [Creating Users](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating Users](https://github.com/Orwells28/Create-Users)
   - [escalation paths](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Service Catalog</b>
   - [custom service using CSM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
