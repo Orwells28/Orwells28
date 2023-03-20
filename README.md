@@ -1,8 +1,8 @@
 <h1>Hi, I'm Orwells! <br/><a href="https://github.com/orwells28">Programmer</a>, <a href="https://www.linkedin.com/in/orwells-oyakhire-8b5b74159/">ServiceNow Developer</a>,<a href="https://www.linkedin.com/in/orwells-oyakhire-8b5b74159/">Web Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 ServiceNow Projects:</h2>
 
-- <b>ServiceNow</b>
+- <b>Incident management</b>
   - [incident forms (remove fields)](https://github.com/Orwells28/Incident-Form/blob/main/README.md)
   - [Creating Users](https://github.com/Orwells28/Create-Users)
   - [escalation paths](https://github.com/joshmadakor1/Algorithms-Practice)
